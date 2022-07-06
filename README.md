@@ -1,2 +1,3 @@
-# react-pwa
-react progressive web application
+# Progressive Web Application
+
+For Setup => run ```npm i && npm start``` for both client and server side to start the development server
